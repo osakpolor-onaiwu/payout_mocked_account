@@ -1,0 +1,5 @@
+use f4b account_id as the merchant email/id. then they need to pass 
+password  and f4b account_id when signing in.
+
+
+make f4b app the parent account. it will have all privileges

@@ -1,0 +1,554 @@
+[
+    {
+      "Country": "Nigeria",
+      "name": "JAIZ BANK",
+      "code": "301",
+      "tag": "jaiz"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "Parkway",
+      "code": "311",
+      "tag": "parkway"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "PAYCOM",
+      "code": "305",
+      "tag": "paycom"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "SKYE BANK PLC",
+      "code": "076",
+      "tag": "skyebank"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "STANBIC IBTC BANK PLC",
+      "code": "221",
+      "tag": "stanbic"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "Stanbic Mobile",
+      "code": "304",
+      "tag": "stanbic-mobile"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "STANDARD CHARTERED BANK NIGERIA LIMITED",
+      "code": "068",
+      "tag": "standard-chartered"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "STERLING BANK PLC",
+      "code": "232",
+      "tag": "sterling"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "UNION BANK OF NIGERIA PLC",
+      "code": "032",
+      "tag": "unionbank"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "UNITED BANK FOR AFRICA PLC",
+      "code": "033",
+      "tag": "uba"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "UNITY BANK PLC",
+      "code": "215",
+      "tag": "unity"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "WEMA BANK PLC",
+      "code": "035",
+      "tag": "wema"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "ZENITH BANK PLC",
+      "code": "057",
+      "tag": "zenith"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "ZENITH Mobile",
+      "code": "322",
+      "tag": "zenith-mobile"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "KEYSTONE BANK PLC",
+      "code": "082",
+      "tag": "keystone"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "HERITAGE BANK",
+      "code": "030",
+      "tag": "heritage"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "ACCESS BANK NIGERIA",
+      "code": "044",
+      "tag": "access"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "ACCESS MOBILE",
+      "code": "323",
+      "tag": "access-mobile"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "AFRIBANK NIGERIA PLC",
+      "code": "014",
+      "tag": "afribank"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "Aso Savings and Loans",
+      "code": "401",
+      "tag": "aso-savings"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "DIAMOND BANK PLC",
+      "code": "063",
+      "tag": "diamond"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "Ecobank Mobile",
+      "code": "307",
+      "tag": "ecobank-mobile"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "ECOBANK NIGERIA PLC",
+      "code": "050",
+      "tag": "ecobank"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "ENTERPRISE BANK LIMITED",
+      "code": "084",
+      "tag": "enterprise"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "GTBANK PLC",
+      "code": "058",
+      "tag": "gtb"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "GTBank Mobile Money",
+      "code": "315",
+      "tag": "gtb-mobile"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "FIRST CITY MONUMENT BANK PLC",
+      "code": "214",
+      "tag": "fcmb"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "FIRST BANK PLC",
+      "code": "011",
+      "tag": "firstbank"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "FIDELITY BANK PLC",
+      "code": "070",
+      "tag": "fidelity"
+    },
+    {
+      "Country": "Nigeria",
+      "name": "FBN MOBILE",
+      "code": "309",
+      "tag": "first-mobile"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Guardian Bank Limited",
+      "code": "55",
+      "tag": "guardian"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Victoria Commercial Bank Limited",
+      "code": "54",
+      "tag": "victoriabank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "GUARANTY TRUST (KENYA) LTD",
+      "code": "53",
+      "tag": "gtbkenya"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Jamii Bora Bank",
+      "code": "51",
+      "tag": "jamii"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Paramount Universal Bank Limited",
+      "code": "50",
+      "tag": "paramountbank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Equatorial Commercial Bank Limited",
+      "code": "49",
+      "tag": "equatorial"
+    },
+    {
+      "Country": "Kenya",
+      "name": "ECO Bank Limited",
+      "code": "43",
+      "tag": "ecokenya"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Giro Commercial Bank Limited",
+      "code": "42",
+      "tag": "giro"
+    },
+    {
+      "Country": "Kenya",
+      "name": "NIC Bank Limited",
+      "code": "41",
+      "tag": "nicbank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Investments n Mortgages Bank Limited",
+      "code": "57",
+      "tag": "mortgagebank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Development Bank of Kenya Limited",
+      "code": "59",
+      "tag": "developmentbank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Fidelity Commercial Bank Limited",
+      "code": "60",
+      "tag": "fidelitybank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "MPesa",
+      "code": "MPS",
+      "tag": "mpesa"
+    },
+    {
+      "Country": "Kenya",
+      "name": "UBA Kenya Bank Ltd",
+      "code": "76",
+      "tag": "ubakenya"
+    },
+    {
+      "Country": "Kenya",
+      "name": "First Community Bank",
+      "code": "74",
+      "tag": "fcbkenya"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Gulf African Bank Ltd",
+      "code": "72",
+      "tag": "gulfbank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Family Bank Ltd",
+      "code": "70",
+      "tag": "familybank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Equity Bank Limited",
+      "code": "68",
+      "tag": "equity"
+    },
+    {
+      "Country": "Kenya",
+      "name": "K-Rep Bank Limited",
+      "code": "66",
+      "tag": "krep"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Diamond Trust Bank Limited",
+      "code": "63",
+      "tag": "diamondkenya"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Housing Finance Bank",
+      "code": "61",
+      "tag": "housingbank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Imperial Bank Limited",
+      "code": "39",
+      "tag": "imperialbank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "African Banking Corp. Bank Ltd",
+      "code": "35",
+      "tag": "africanbank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Co-operative Bank of Kenya Limited",
+      "code": "11",
+      "tag": "cooperativebank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Prime Bank Limited",
+      "code": "10",
+      "tag": "primebank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Central Bank of Kenya",
+      "code": "09",
+      "tag": "centeralbankkenya"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Habib Bank Limited",
+      "code": "08",
+      "tag": "habibkenya"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Commercial Bank of Africa Limited",
+      "code": "07",
+      "tag": "bankafricakenya"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Bank of Baroda (Kenya Limited)",
+      "code": "06",
+      "tag": "barodabank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Bank of India",
+      "code": "05",
+      "tag": "bankofindia"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Barclays Bank of Kenya Limited",
+      "code": "03",
+      "tag": "barclaysbank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Standard Chartered Bank Kenya Limited",
+      "code": "02",
+      "tag": "standardbankkenya"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Kenya Commercial Bank Limited",
+      "code": "01",
+      "tag": "kenyabank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "National Bank of Kenya Limited",
+      "code": "12",
+      "tag": "nationalbankkenya"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Oriental Commercial Bank Limited",
+      "code": "14",
+      "tag": "orientalbank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Chase Bank Limited",
+      "code": "30",
+      "tag": "chase"
+    },
+    {
+      "Country": "Kenya",
+      "name": "CFC Stanbic Bank Kenya Limited",
+      "code": "31",
+      "tag": "cfcbank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Trans-National Bank Limited",
+      "code": "26",
+      "tag": "transnational"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Credit Bank Limited",
+      "code": "25",
+      "tag": "creditbank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Consolidated Bank of Kenya Limited",
+      "code": "23",
+      "tag": "bankofkenya"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Dubai Bank Kenya Limited",
+      "code": "20",
+      "tag": "dubaibank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Bank of Africa Kenya Limited",
+      "code": "19",
+      "tag": "bankafrica"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Middle East Bank Kenya Limited",
+      "code": "18",
+      "tag": "middleeastbank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Habib Bank A.G. Zurich",
+      "code": "17",
+      "tag": "habibbank"
+    },
+    {
+      "Country": "Kenya",
+      "name": "Citibank N.A.",
+      "code": "16",
+      "tag": "citibank"
+    },
+    {
+      "Country": "Ghana",
+      "name": "ROYAL BANK",
+      "code": "300331",
+      "tag": "royalbank"
+    },
+    {
+      "Country": "Ghana",
+      "name": "STANBIC BANK",
+      "code": "300318",
+      "tag": "stanbicghana"
+    },
+    {
+      "Country": "Ghana",
+      "name": "STANDARD CHARTERED BANK",
+      "code": "300302",
+      "tag": "standardbank"
+    },
+    {
+      "Country": "Ghana",
+      "name": "UNITED BANK FOR AFRICA",
+      "code": "300325",
+      "tag": "ubaghana"
+    },
+    {
+      "Country": "Ghana",
+      "name": "UNIVERSAL MERCHANT BANK",
+      "code": "300309",
+      "tag": "universalbank"
+    },
+    {
+      "Country": "Ghana",
+      "name": "ZENITH BANK",
+      "code": "300311",
+      "tag": "zenithghana"
+    },
+    {
+      "Country": "Ghana",
+      "name": "NATIONAL INVESTMENT BANK",
+      "code": "300305",
+      "tag": "nationalbank"
+    },
+    {
+      "Country": "Ghana",
+      "name": "HFC BANK",
+      "code": "300310",
+      "tag": "hfcbank"
+    },
+    {
+      "Country": "Ghana",
+      "name": "GUARANTY TRUST BANK",
+      "code": "300322",
+      "tag": "gtbghana"
+    },
+    {
+      "Country": "Ghana",
+      "name": "FIRST NATIONAL BANK",
+      "code": "300334",
+      "tag": "firstnational"
+    },
+    {
+      "Country": "Ghana",
+      "name": "FIRST ALLIED SAVINGS AND LOANS",
+      "code": "300351",
+      "tag": "firstsavings"
+    },
+    {
+      "Country": "Ghana",
+      "name": "ENERGY BANK",
+      "code": "300330",
+      "tag": "energybank"
+    },
+    {
+      "Country": "Ghana",
+      "name": "ECOBANK",
+      "code": "300312",
+      "tag": "ecoghana"
+    },
+    {
+      "Country": "Ghana",
+      "name": "CAPITAL BANK",
+      "code": "300356",
+      "tag": "capitalbank"
+    },
+    {
+      "Country": "Ghana",
+      "name": "CAL BANK",
+      "code": "300313",
+      "tag": "calbank"
+    },
+    {
+      "Country": "Ghana",
+      "name": "ACCESS BANK",
+      "code": "300329",
+      "tag": "accessghana"
+    },
+    {
+      "Country": "Ghana",
+      "name": "GCB BANK LTD",
+      "code": "300304",
+      "tag": "gcbghana"
+    }
+   ]
