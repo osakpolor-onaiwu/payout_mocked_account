@@ -1,5 +1,4 @@
-import { Column, Entity, PrimaryGeneratedColumn,Index, CreateDateColumn, UpdateDateColumn, DeleteDateColumn } from "typeorm";
-
+import { Column, Entity, PrimaryGeneratedColumn,Index, CreateDateColumn, UpdateDateColumn, DeleteDateColumn, OneToMany } from "typeorm";
 @Entity('merchant_bank_details')
 export class merchant_bank_details {
     @PrimaryGeneratedColumn()
@@ -22,12 +21,12 @@ export class merchant_bank_details {
     meta: string;
 
     @CreateDateColumn()
-    created_at: Date
+    created_at: Date;
 
     @UpdateDateColumn()
-    updated_at: Date
+    updated_at: Date;
 
     @DeleteDateColumn()
-    deleted_at: Date
+    deleted_at: Date;
 
 }
