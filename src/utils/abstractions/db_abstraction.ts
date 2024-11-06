@@ -16,7 +16,6 @@ const abstraction = (entity: any) => {
             return await repo.save(created_entry);
         } catch (error) {
             throw error;
-
         }
     }
 
@@ -48,6 +47,7 @@ const abstraction = (entity: any) => {
                 ...data
             },
             select: { ...projection },
+            order: option?.order,
             relations: option?.relation
         });
 

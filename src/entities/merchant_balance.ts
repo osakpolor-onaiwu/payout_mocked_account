@@ -1,5 +1,4 @@
 import { Column, Entity, PrimaryGeneratedColumn,Index, CreateDateColumn, UpdateDateColumn, DeleteDateColumn, ManyToOne } from "typeorm";
-import { merchant_bank_details } from "./merchant_bank_details";
 
 @Entity('merchant_balance')
 export class merchant_balance {
@@ -18,9 +17,6 @@ export class merchant_balance {
     @Column("int", { nullable: false})
     @Index()
     f4b_account_id: number;
-
-    @ManyToOne(() => merchant_bank_details, (bank) => bank.id)
-    merchantBankDetail: merchant_bank_details;
 
     @Column("json", { nullable: true })
     meta: string;

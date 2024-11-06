@@ -5,12 +5,12 @@ import query_db from '../../utils/abstractions/db_abstraction';
 
 const fetch_account_details = async (data: Object_type): Promise<object> => {
     try {
-        const { f4_account_id } = data;
+        const { f4b_account_id } = data;
         const fetched_details = await query_db(models.merchant_bank_details).find_one({
-            f4b_account_id: f4_account_id
+            f4b_account_id: f4b_account_id
         })
 
-        if (!fetched_details) throw new Bad_request_error(`No bank details found for account id ${f4_account_id}`)
+        if (!fetched_details) throw new Bad_request_error(`No bank details found for account id ${f4b_account_id}`)
 
         return fetched_details;
     } catch (error: any) {
