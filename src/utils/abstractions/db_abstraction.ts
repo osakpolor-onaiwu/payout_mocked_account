@@ -1,5 +1,4 @@
 import { db_config } from "../../configs/db_config";
-import { ObjectLiteral } from "typeorm";
 
 interface Options {
   skip?: number;
@@ -79,6 +78,7 @@ const abstraction = (entity: any) => {
     if (columns_to_include) query.select = { ...columns_to_include };
     if (option?.skip) query.skip = option?.skip;
     if (option?.take) query.take = option?.take;
+    if (option?.order) query.order = option?.order;
     if (option?.relation) query.relations = option?.relation;
 
     const find_data = await repo.find(query);

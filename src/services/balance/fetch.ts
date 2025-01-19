@@ -54,7 +54,7 @@ const fetch_balance = async (data: Object_type): Promise<object> => {
         id: "DESC",
       };
     }
-    console.log(options);
+
     let fetched_balances = await query_db(models.merchant_balance).find_many(
       where_query,
       {
